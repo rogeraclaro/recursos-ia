@@ -1,15 +1,6 @@
 <?php get_header(); ?>
 
 <div class="container">
-    <!-- Add New Resource Button (only for logged in users) -->
-    <?php if (is_user_logged_in() && current_user_can('edit_posts')): ?>
-    <div class="add-resource-container">
-        <a href="<?php echo admin_url('post-new.php?post_type=recurs_ia'); ?>" class="btn-add-resource">
-            ➕ Afegir Nou Recurs
-        </a>
-    </div>
-    <?php endif; ?>
-
     <!-- Search -->
     <div class="search-container">
         <input type="text" class="search-box" id="searchBox" placeholder="Cerca per nom, descripció o URL...">
@@ -24,7 +15,7 @@
                 'taxonomy' => 'categoria_ia',
                 'hide_empty' => true
             ));
-
+            
             foreach ($categories as $category):
                 $count = $category->count;
                 $slug = $category->slug;
@@ -42,14 +33,12 @@
         <?php
         foreach ($categories as $category):
             $cat_slug = $category->slug;
-
-            // Get subcategories
+            
             $subcategories = get_terms(array(
                 'taxonomy' => 'subcategoria_ia',
                 'hide_empty' => true
             ));
-
-            // Get posts for this category
+            
             $args = array(
                 'post_type' => 'recurs_ia',
                 'posts_per_page' => -1,
@@ -61,9 +50,9 @@
                     )
                 )
             );
-
+            
             $recursos = new WP_Query($args);
-
+            
             if ($recursos->have_posts()):
         ?>
         <div class="category-section" id="<?php echo $cat_slug; ?>">
@@ -75,7 +64,6 @@
             </div>
 
             <?php
-            // Group by subcategories
             foreach ($subcategories as $subcat):
                 $subcat_args = array(
                     'post_type' => 'recurs_ia',
@@ -94,9 +82,9 @@
                         )
                     )
                 );
-
+                
                 $subcat_recursos = new WP_Query($subcat_args);
-
+                
                 if ($subcat_recursos->have_posts()):
             ?>
             <div class="subcategory">
