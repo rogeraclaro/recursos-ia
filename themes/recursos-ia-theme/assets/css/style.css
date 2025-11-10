@@ -74,22 +74,53 @@ body {
     margin-bottom: 30px;
 }
 
+.search-form {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
 .search-box {
-    width: 100%;
-    padding: 12px 20px 12px 45px;
+    flex: 1;
+    padding: 12px 20px;
     font-size: 1rem;
     border: 1px solid #e1e8ed;
     border-radius: 8px;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' fill='none' stroke='%23657786' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E");
-    background-repeat: no-repeat;
-    background-position: 15px center;
-    background-size: 20px;
     transition: border-color 0.3s;
 }
 
 .search-box:focus {
     outline: none;
     border-color: #1da1f2;
+}
+
+.search-button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(135deg, #1da1f2 0%, #0d8bd9 100%);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    white-space: nowrap;
+}
+
+.search-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(29, 161, 242, 0.3);
+}
+
+.search-button:active {
+    transform: translateY(0);
+}
+
+.search-button svg {
+    flex-shrink: 0;
 }
 
 /* Index Grid */
@@ -326,6 +357,15 @@ body {
 
     .stat-number {
         font-size: 1.5rem;
+    }
+
+    .search-form {
+        flex-direction: column;
+    }
+
+    .search-button {
+        width: 100%;
+        justify-content: center;
     }
 
     .index-grid,

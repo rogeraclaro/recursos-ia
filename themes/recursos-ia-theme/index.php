@@ -3,7 +3,16 @@
 <div class="container">
     <!-- Search -->
     <div class="search-container">
-        <input type="text" class="search-box" id="searchBox" placeholder="Cerca per nom, descripció o URL...">
+        <form class="search-form" id="searchForm" role="search">
+            <input type="text" class="search-box" id="searchBox" placeholder="Cerca per nom, descripció o URL..." name="s">
+            <button type="submit" class="search-button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+                <span>Cercar</span>
+            </button>
+        </form>
     </div>
 
     <!-- Index -->
