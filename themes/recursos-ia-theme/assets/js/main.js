@@ -15,9 +15,13 @@ document.addEventListener('DOMContentLoaded', function() {
             }
 
             cards.forEach(card => {
-                const title = card.querySelector('.link-title').textContent.toLowerCase();
-                const description = card.querySelector('.link-description').textContent.toLowerCase();
-                const url = card.querySelector('.link-url').textContent.toLowerCase();
+                const titleEl = card.querySelector('.link-title');
+                const descriptionEl = card.querySelector('.link-description');
+                const urlEl = card.querySelector('.link-url');
+
+                const title = titleEl ? titleEl.textContent.toLowerCase() : '';
+                const description = descriptionEl ? descriptionEl.textContent.toLowerCase() : '';
+                const url = urlEl ? urlEl.textContent.toLowerCase() : '';
 
                 if (title.includes(searchTerm) || description.includes(searchTerm) || url.includes(searchTerm)) {
                     card.classList.remove('hidden');
