@@ -1,0 +1,1440 @@
+Nov 07 2025 17:32:26
+{"Number":8192,"Message":"explode(): Passing null to parameter #2 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":447}
+
+Nov 07 2025 17:32:26
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-config.php","Line":164}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/00\/09fb6359276a4e1641ce7caf4b18dc746ba120): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/00\/6cb83339eda3252e366cf488cd369c13f2b3ab): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/00\/b0ea7e86789bb2635232078eb7388bcf3e61c2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/00\/bbf9761bf7f08960ea5c3ee6acfcd584d8af5d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/00\/bc0b7b8f6b642f691c1f37063f63d2a82b2595): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/00\/ca2ec8c5a341a1c5c87a29d56eaf251ebab54c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/00\/dffc235e1dde4c51ad5bd507947eedfe08d4a9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/02\/203d6b1ad2bc12eb85e4d102bceb0fbce7d5d7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/02\/7c4e4caf3bcc5d7550cada68b8f73c5e324003): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/02\/d522fe581f570d827e3e83f9c73cfbc98d3777): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/03\/310f564f21446f1e9d2647f5989df64a440448): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/03\/9281da55b48de4ba35dab6f1dbc85013beb2cb): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/04\/3102e34d22e3091c0bd6b4166f7bdbdfa89ab6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/04\/860310d89b06d7a70136d4c25e0a7ddb6e23bd): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/05\/4d02a763e3ecefc88a1098734364d1b20bc7bb): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/07\/fcb843194f084565e8307ab3e7ad0c4dc625b1): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/08\/9a17111d05b23385a514e70e8a91711b07ba9a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/08\/a7d7a177dc9f768a533b75175467d6ef5bb4b5): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/08\/c500f706663f0dda2812872312edd7990426e1): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/0b\/ce2372dc97a5ceb374b62d890eaaf7f3aada44): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/0c\/589c78e2f583bf8e6f9e35d7546e16dd100eb1): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/0c\/c3a0ab32f77439da7f377e7a974182e25d17d9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/0d\/00850fbe638cf4bc5c157688e0441779b29e92): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/0d\/3efcd384201c8bb4a84f10b1ba94a6e0c46b1f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/0d\/4ee8724f551f6421760c3423a4d61d66872bcf): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/0f\/1d2fa0d6f1ffadc9b3c35a8c0aced45ef5cc9c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/0f\/31d5bc95de99dfa091f641a242f3e01c440bab): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/12\/4af4a57f6303c2c6cdd54e35e458834bb7df6e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/13\/4da2894ea440955532d525c4519cd50c9921b4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/13\/b91baa2b21f4ba6fac47f42bcb13e1640018aa): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/13\/dc4f3ee79e5723780d3b63f1cbba5655d00340): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/14\/3d61bd7a3f7db832674197061ee192f545b8f2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/15\/427904bd22b09242d3fd649f012001e3b09664): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/16\/7f0a04700d68459adf814068122e6945186fa9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/17\/e4781f0d9b78ad1b18f56124a6e4bbd368a16d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/18\/4c9209b76772b027307f1ca0ff3b1e64cf0755): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/18\/7c016e6382119ec547b1f90236975f9ff0e704): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/19\/68bb7c85ca53eaf8fb55f8c7047589dc48dfc7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/19\/6f82e05e6983a3b4be81baaa38df3e52c87734): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/1a\/79e971da9451dd4bacc82137a7507f4a2f3817): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/1a\/f3e7dbd17c19976e4302bb8d2be346ce3e7582): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/1b\/00c3a6f985a915397e3b925916dee3b2cd7737): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/1b\/6dccbfa2497cad2bd3602036233e319e0aa40b): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/1b\/a58e5ac75cfc4bc1c3880cc6c930f2d4be7c2d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/1b\/ac825e9e5d314112e3dcee0961c6541ab77b7b): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/1c\/2377048d288fbaad3af23fe4e2681e2658944b): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/1c\/60eb18e21274bc1b2b618f0c6d4776dc1fafb2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/1c\/88efcc32daf185ffc5266dd5f26da22dff78ae): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/1d\/a827261c779b80f36578abe048daee2af2bdd7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/21\/2cd3b5201f723a39ac930d7572dc5e17f0d855): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/21\/478ead4e954a102ce1fba764134ca57be47877): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/21\/8a0073137686c7b72bcbd3ae40a03903c17dea): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/21\/d96816c3a5f8c60d9977450e7addef93167c3f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/22\/6779b46c2db39981c8bec92713a0076130eeef): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/22\/852b223adc0bd8bcba4943d78cffb98eba3fa9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/23\/8784915466241cdf940c4256af8a0bd92c7e14): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/24\/5d5f4083395d6f637a6197af96ef87756712ea): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/25\/6c8dbd6f44e730afdd2c772cdfa36e99376787): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/26\/032360fde8912e34147cc31410c141682d79d4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/26\/05a89d2577ba835ed3aa2fac3527697dbc5d00): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/26\/2239ce2dbe1f27bab9c70993721493b14104f6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/26\/4ce6329f2d8bd6fd09d5360aa4e1fc4f2e6a6d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/26\/ccc3518421d695d883f98b27b1d74955da3d99): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/27\/87a753c6ec00d3ef4c003735780f05a63cfef2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/28\/5e37c3e8f2fc2c022179a9557ca9cd6cf126c0): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/28\/701e68424b1579b9efff1284feb967ca322d5f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/29\/ed37689c3e9dd38539762fc241eb1fb70b887f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2a\/b7591f6c446f1ad22be4972f350b55b23f6d2a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2b\/23fd759d9024374c8ac884b3eedffeebdfabc7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2b\/2d8efba2a37f90ba3f739fab107bb4ada6165e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2b\/60f96670b243b29ab3e0b2b0bd8ec8939edfe9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2b\/ebf05ccf14fc22c44d27fa921a847f10c36c49): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2c\/7ccf8bec8966c243da4673e2a9e0e1726ec04f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2c\/bcaff47e574373ee3a51e69ffb812c6ab6b276): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2d\/280ef59b737f86cbf225cbd74deb6efa154013): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2d\/d45d325195fff9b06e1032c7bd87013568931c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2f\/a483be63a28f22563e691cd8867cc039bed685): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/2f\/efc2e9919e02138071cc3a321ea91e55490a31): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/31\/21358e841a17a9c29c593a21c2f39ee8d74f78): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/31\/d3465d3e77b1dbbdc0a39c28e2dd90902239ff): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:30
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/32\/9164dae1d782069e4908a006fb1e00d6e2266f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/32\/bed51c7930385879661693724f1982791c89d4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/33\/c14136f85dc60d463c51e9dd0f2846e9f35fc2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/33\/d4dd462ad2305671b6d1b11e3456c4239ed897): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/34\/35a3b3fc72c6713652baa1c6b29d44111a9f07): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/34\/b458b5d154233917f0b764a846be9dd63ad217): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/35\/0bbbcf81caa1fabba52a0343fac52d8084b612): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/35\/2349cd8b320202520d05772992cbec5ad9d3e3): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/35\/f31ade45530159eb982d3a017007666fbd4d5c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/36\/3f49aa5774b3a021f809ed781bdfda548a32d9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/37\/9f83d326475064fce885f917854b2b6505e28c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/37\/abd55f3f3e5aa39ce98df1839e9b49bf8bf710): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/37\/e6419a06a7f45430ad50a35607b9693b9bfaee): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/38\/05c48052b8cd28c6f099434e5c6eedf68bda96): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/38\/74c78d5eb87c0f5becd10938445670ed53d0e6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/39\/258764fc9e4129d52389bf83bbdd9ba8dfc94f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/39\/3d0a7a1b2eed3702a767c06badf454385e03e7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/39\/a4e41d19896b01462e5bec27ca67dde947496c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/3b\/0ddbe25d5f4a4d4bd805c352d00bb96c3dd3b5): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/3b\/74d300ad0032ec55a438aedf839f701481be2e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/3c\/78fe36460bdae3809cb5ae9f506a25bb7c6edc): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/3c\/8f08d4582b06aeec84f80dc1fe9a8025087e5c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/3c\/cff6f35c24b625e9f46561d014f101b4f87057): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/3d\/1c0a6e62dddbace5c98bba1b0a95804a99225d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/3d\/3bd7cfb9613a36cf24c20d4d0a933134512a61): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/3e\/0c3aeecb1e76bb548c07aeeda821360f26de14): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/3f\/095cc9fba8cc7f71c515cc7096234f6e5ebd53): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/3f\/2c748e78553250d6c716d2477b153cf79818fd): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/40\/4842ccf86f9b6cf78f1aee0b2c08672fc3789d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/41\/391e3cefd1880436f54e595008541919e2c7cd): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/41\/7d979f5f417df0a4b2c83a0efa3cfd766c6e66): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/42\/71d9626d34d164e9577f4a73f0000780a72bd8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/42\/7db85fe3994a2c58604b5cced268a20a8cb402): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/43\/300455c6e4e4f2dd171fa17e22fe59db8d919c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/43\/31194a0cac252b1c2047643426686c2c93de26): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/43\/610a47f1c9a144c5caa7cd7979031faa06bf84): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/44\/4b0c7f0e8ecb5aa0f79e6e85b7392cfbf6ea8e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/44\/68001a6c8b98778720508fa1e6c9df3178a597): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/44\/a4bc0d261de6a4428ae6b005d697e5d43fc264): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/44\/f81dcc5e1947b4c405636fdae344ed455d1dd7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/46\/65bfdc49b6aaa0ddd785f86fe5a842a34aa8d7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/46\/905a8cbf7824216ce8c320a799bf22397911d1): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/47\/1f756ea842de5b033d6b01c1b5abc8de203364): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/47\/a5428ea21a9920a954f0ebf4cb4a37ab02d9fb): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/48\/a816a4dffe2fd3404f121631892f5f18249c1b): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/48\/ac7310f29614e2b5f971a1c615f8c22d901354): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/49\/bceb2eb96acf253a8178837d5bac898c2cc9d6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4a\/049ee3d8d393a78cfb0cefe0b6daa7a8388c9a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4a\/96d748004fb3626769d924be943006e373474e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4a\/c5ac8920c61d78caaf7f069816464cef66713d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4b\/7fd1ae747e9be332c27ea78d96586258b7754c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4b\/8aeb2797883cdd71a15c4c3496bde4c37ed704): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4b\/9cd30aff1f526bd10ba65cfd4b0262b3624fbf): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4b\/a39374342de8e464f71992360774bac06b91fd): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4c\/bd4c351f178dbc1fc0438f27e2bf4ca43b9683): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4d\/ec2cc6ac7bcda9570097791bff84811824ff0c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4f\/7ea3c0abcd5d2d7b8df185f488c399e049ddb1): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4f\/adf2edfe0af3edd395e89920d2e908c81fb84d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/4f\/c4f072ba3c9add961c01f794a2c46df6d2619f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/50\/08ddfcf53c02e82d7eee2e57c38e5672ef89f6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/50\/90ff25280873032ab80e9d40a283d7feb10555): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/51\/d6a06aee48cc8bbce943c15740069137f01829): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/51\/dd9a5db2b129066478f8c169f5751e3f33b957): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/52\/cbf9a542438fe3e12d647eff113342f5ab73d6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/53\/6d7a570e8a180bf22c067b556de9447cf56e3b): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/53\/ea7cc5e046e3782bfd088e1a857377da83626f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/53\/ec6badc13da9cd24d818c9b925868b42beba75): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/54\/2f9bed1a9474c5729856851e45d128e70398e0): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/54\/c51014926107f8357f79f58032fd7c1f3f7fd4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/54\/ccb20be32aa4d89f4d58f7afa8dabae1af1521): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/54\/dd9444de0b1835ecdd9c82fbb6005e09a2fcac): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/55\/06cb4e5bbc02c3002b89327a7988faf1997ba0): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/56\/2680dc4bf37ee90e3ecc01771435f857c87341): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/56\/c88fb4be342659a572b248177ff3e81352859f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/56\/e04aa12f6064977a03a9b161d36e957f88426a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/56\/f54c258afb61e81d8aa9bb365a2c5828380892): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/57\/291c04def4b5f413a768e7f3029aaa27b76457): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/59\/95fbb05c09dcc5461c4807f1f1fbe813b0d277): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/5b\/2bc76f1c20dee67c2ddccb500391a810fbf78a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/5b\/33a9e233f6193baa85799fd9e8368176553430): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/5b\/a058ca6d010c5f99995c70b4ce19806cea62c0): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/5c\/dd050895a2d36b655e28097981ca11f29a4e16): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/5e\/400086954403c1fb014187eed7b42100fbe6f2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/5f\/32f7f861c0512a8de576018b7fa5ea2c8bac18): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/60\/6552f853f7e2c473230667a66c704bd9e03e61): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/60\/d11737258c11202180a0beaa405a13fa746e39): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/60\/da74976255da50329e722af51a0d757f2b2c7d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/61\/24ae1c6344b2ceb72d2a8a308172f24cf40535): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/61\/fb2b6dfd2ce302d72e0f94ef8c88599c27fd27): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/62\/200328fddc2de0805db758fb758bcb4d65d8e2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/62\/20e154fec4550ea0924a41fd3639fc300dfba4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/62\/a6362d25b4a0f1f1769c383aab1ccacf0e9f64): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/64\/2f3b2c838bf6edaf124d15ccec61e03529817c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/64\/5d7323106268c8d3c2e2f6678455426aaa1c9e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/64\/ad1798c49f06a1a39f4046a9b21b66779be0e8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/66\/75ed7bd10ac0beb9526ad973d10123f71b8917): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/67\/7e992f588f87be37dbd0c1d16f1fa992c50559): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/67\/9e1e02a1e94cf63cb2bb22904a673a1617c4c8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/67\/ccfbc63f772ec875dcab5d4e244445d3d71c27): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/69\/b1740ae6717ca20d0037c970a214a9d213503f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/69\/cd6817fd0804cb89bd7de9bb9e81d3c16c22ee): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6a\/a7725335e371b451fb6a0567abecf61039dc7b): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6a\/d69ff20ece91849057e97e9690aae3fbd733e6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6a\/ee66b1a610a7cc3a834428b93d887881afec24): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6b\/12c325acfe03140a11e47f3e4622d1667def45): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6b\/9a11aa985891edfa99121d84479a957c7693c8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6c\/64adebe8dbdb517e2b5d6b3f349a52b15d5e04): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6d\/193a4cdd3902c00f7126e0c80bfac7cd89cf1d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6d\/64153e70100b4bd4cc773915bd95a887d4cf05): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6d\/d8f82984ab4733dd41edc8a0e0fcedf05ff839): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6e\/500ee9e409e089022dbda04377e211d38b3485): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6e\/c67323ee79f17e6df0094950c2eb17f1c7a365): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6e\/ce41c4129576da23d49f06e2d67955d4702068): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6e\/e225137dfa5690ce0141c8744c71b7a30088ea): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/6f\/93056988899e7f8e44e1c9dfd0fc32d7409386): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/70\/5c827e19b436abc10636429182308531ba8be4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/71\/3103c1c326bb2a3e7430c470b5b65365818a69): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/71\/e58d5bd832af73e48f3de3e301f4e41bf8a458): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/73\/22d5e0322ef6a8641d8b77a5b4d42dd4732935): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/73\/c068fe1ae9e5ef81548c5ef1356fd38953e324): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/74\/f54e6827f7a5c14cd6f4f67e6eede015ca8f45): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/76\/1f2e85afcbbe8b8f33014b6bc97e950025d859): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/78\/5147d20e763cdca65e57ce07fb39cb24fd1098): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/79\/18e383b331d5d608b0ba9bbca4d80e6ac90eea): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7a\/2a5b3f11d6bf659ae1d622e9628a8ea88a4ada): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7a\/ee49301e524ae9c5795a501c126aa759b7d39b): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7b\/1c16eb672cf083cbadc1c407097c2a4a2edc4f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7b\/662c243b98d0b604c6ab0b57be4868a191fbd4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7b\/76dee608321bb84e4cea437538d839a1a2bead): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7b\/78323d2b13cb2bcf583227c829126d6523e12f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7c\/b8eabaa01759d2d5669bc20801c117b25d92e4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7c\/d3e749de2ab167308031f508545d128e29a6c2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7d\/16329de00aa0980f4868472cb5c8a96256e2b5): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7d\/5e1ef5651fcc809bb8561c31d184c83d5560ba): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7d\/aeb0dbd749d8f2108992ef7c13d3a5ce5ce783): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7d\/deea7aa1721dcd2ced3b3558f91fe050356ea9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7d\/ea528fa388284692488c40762a2c884a8ec80c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7e\/3e990095441e4da941ddfcc539a285a080094c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7e\/fe1b4df952131fe7ffd7f78aba98774243dcd4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7f\/33f2c39b8f39fa2b959bc79380dfc5c7b0f523): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7f\/56a7bc10b5e7e65bc39571fe1e7ac637dfde40): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/7f\/ad89ba920a3d8eb73ed4b55ae72d559f562934): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/81\/459c04b1a8d1c5093e812196a20c3bad50bb12): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/81\/e482e2169e621a38934b3502a4d63613cd3197): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/82\/20422423a0b36937fcd6b91b9d67a01a0d9f39): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/82\/dc4de8471fa08d2a73b94730fd74e418e76a03): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/83\/3b4f313365bf9258b0c3a86852fbb448b42a00): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/84\/2a9c21b452c5d6363bdd9875467a9800674d0c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/84\/84d4f23191a081a7eed3609d50d6e7a0bbf63a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/84\/d4a78779e1ca7d655b4fc84db1d2fe9af1d3b8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/85\/2f1d43273d92216a4c1645c013b0ce94225539): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/85\/36cb842316300a19f58c4d602102fd9fa33998): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/85\/45cb49799c5492e44664680fdb0c5f65f9499e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/85\/5615471b5e951f40c251bccebea61f8cd946c8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/85\/b6b99d12470b54d8cbc919bc45102d99f23437): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/85\/da45d2186bd768b3b4f68bae43b1641ff3b9e9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/86\/5438cdbea33b580d4dd2a2b7899daaf1b3621a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/86\/a8bfac2b362bd3f8f1c2d5c536d5e75c657ac8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/86\/ebd9ce0962134ea93bbde475769a0ba5d9b38a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/87\/851b4ce7d8e541b4bda9d758d714d73c02f9d8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/88\/4259b1888bd26eb29f66d8a37f916a38cc011a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/89\/7a0f6c185fed1f7cda7de05872f2893cd81545): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/89\/e17ba6cbcb1ac714e514af0e808c463d8d32e2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8a\/4cd38830489a40b26976f5de0022e1ffc75590): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8a\/941302afb809a46de2147def0d825450794107): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8a\/d19428919ef48b7f39b8614b1942af99ea5e2c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8b\/2efea8b4f17d8912e535f4f3e50de9eba1041c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8c\/ccb6cd25b1da7ac5dd27fe9b16de53beb51c7d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8d\/5628b375c839fcba7ed44b018b32edfc9ec58e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8e\/1698856ab09854fe2334e341427b94f99150f4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8e\/2222efe74cd8dbe944f47da9760b13aa848086): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8f\/65f7a7414996526ce5858f524b5c73510f0171): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8f\/b4a436625f29a84fdd25584cf9d822563a1f21): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/8f\/c3369d81a0f7cdde79e049af54c31fa1f7d045): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/90\/b7fb2fbe138409fb7d105443971e41a9bc5c60): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/91\/16a974a34661167ae903d90a1ce9e32b2d5885): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/92\/72d14ef8cd4f7084cfe8b8a7270a20eaa14d3c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/92\/beb78e9906395065ccacf2127791e75727cb98): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/93\/6ecf11d93d2576b3173879b5f5a48e70bd63a7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/93\/c36b957cd1ee1a3bb769eb665680862f9c640f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/95\/079712d48ec51c25a67a341eaba22ee6207a08): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/95\/cbbe3cd7dc2d128d57a675ed18cc0dc5390ea5): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/97\/b12a57d7e91dced97ed7ca353095c44aa64013): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/97\/fee8c40fcef05cfb83f35affdd00c5437aa03d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/98\/89a69bec8207949d3cb3ad2881f33656c42f0b): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/99\/0a3a894cb5d2840428f03f60dee05ed9030cb1): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/99\/0ab59896362ee3e5e825114a1c5d80afd681aa): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/99\/15e20aff11266acf4b5733ab59b5fb23846c21): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/99\/71884d6399ec7c4627bf93a141f30168733545): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9a\/25fe3ff2b5bd7c092df1c926d7ece018f33bf4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9b\/262e7e8d43fbf9d500acd8764814ab9d7274df): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9b\/2811568ab6ac65dcaa72591742ebcce9e92e4e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9b\/d275a683b037aa4775c92dda5150516dbe4253): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9c\/90905a9e51cd8ba6552389726eb93eb8b185cc): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9d\/8c310db01f4eed30b514459759e44e7f0c03fb): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9e\/5a00f6c83374958d2c1d9ff96e9d8c9c70315f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9e\/6429a8e55dfebd5d1cb62c6a8ed6889f93708a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9e\/741ee028ad43485977ee936d13f856ff3fe9ba): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9e\/7bd16eda8931564e6ebf031c91a5a646ac55ea): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/9f\/86084f96a464d64367dbd97c7ecdd7ba5a7510): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a0\/6977d56c6e14990039b8f30d4438cb257ff27f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a0\/76a580b088fd59f845e90294c26d2d0b7a6a3b): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a1\/2386949b1a823b33df10b7f756a2a6f1d52b26): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a1\/a92264d5718850043b20638f163bb2e18d83da): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a2\/9f829626513d15e46592c639cfeb1f6c176592): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a2\/ca92d6c2b2be8c72f8dfe79e2006dd2faf9ddb): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a5\/50f65e53060915d928e5b650adccc9b3149172): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a5\/bc7d819130f69242c5d228bdf26b4059f45a57): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a6\/32a2bad3d7414d863e728fbcaf106cc0929122): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a8\/ffce647139546994b674493bfd79e9525847eb): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/a9\/b8d178f5effccb6c05308af89829f63e21ca7d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/aa\/347ad1c2140a21a1ba4d039278d9fd298b455d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/aa\/9ab25924fd390323da06d109b7a65b2141083f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ab\/cb01b7bf0bab28c49b13cb31d33da39e4ec6e7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ac\/150b9788eac13e28e109c1723da369d8eb33d1): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ac\/96d52c236f6c54e40fd5076144e9d39c3c97d4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ac\/e36caf311e8771b41102c0ce612cea60f5d4d8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ad\/6c6cd12cb59324eec38b6947d5c9ae1fc17ce4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ad\/d4a1c8f3716af6e5fec38a5b8a35f87a8e28a2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ae\/6870ce48c2f178da21485d2c8a6efe99aa7385): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ae\/7dbb14ca08993668a78adce351af8d9282cb6e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b0\/c1af4821e9d06499d299424efd0e8051b54a95): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b1\/42d089882bdf1aabed561c3a15f58c7456a1a3): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b3\/448bfa6c81cb9cd81fe093aef03b7d8bbc509a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b4\/4b5dd7e119933240f1399834c2c1229681a5c5): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b5\/25cbf3ac4a06145ce3882c32bfda6facccd957): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b5\/48067a4d686f7ea206da261b18fc5de186e73f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b5\/72e9306a9fe68cca470762c1e27b1c9f2e67cd): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b5\/8af0a59f9a70f207d92303610c732ab01d9eda): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b6\/315b0cbd30b66221d103eb9ac40dc85d0ddea8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b7\/14a13053c4bf4a972db303369f401568eab015): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b8\/10186324aafc430b28cfa842fa2c8e785e0ada): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b8\/283d7816488806989f1d9f0a0a43f9968b1e8f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b9\/c3224547e7f6899052c155d11c722972ddc5d9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/b9\/d727c10bec6ddef528e879fd2dd92085f1233a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ba\/5156d765ce1bc7377956f5e86fcfb7e87c530d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ba\/54d58110ce37ddefc7e3ff279ee24ba2eb0118): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ba\/ab75912a3d6ef0dc93ab467ecf3d636cff1c57): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ba\/c3ec260398e9915088809a7efacc465f438a46): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/bb\/34c39c98843d365aed698aa698f77b7a1215e5): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/bb\/cdf63a196e0f56269a55a8424091802bb2c415): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/bc\/71fa2cf3c3688ee14d3309ca61736ce8e2fced): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/bc\/7f2ae0d299483c15f6cc9863605f0f1cc3e415): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/bd\/08b6e04317be645e3b3f45514d6bdd4c855439): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/bd\/106684624c20d4679d043e7ac6b0dc0f37cf25): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/bd\/9640c9d23d43d722efe4bd8f21cd165fc3896f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/be\/2dcb28b7f284a9a078da287b59ec80652d6d9e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/be\/82e0f6438c927a5631f3fecb23bfa056bf5a46): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/be\/d3d1ebf08711e177596603fb8ccdce25a7e99a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/bf\/cfcb4086c4083204b76fe5d71d0175b3ae9f92): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c0\/3d1b13d57c37b7a4318fb420975811cc84464e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c0\/8992c214381455998302efc9445079096da52c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c0\/9d1b9c0a7d34a01d121cf9a4ac370aac881483): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c1\/1b9133510bb0046d91a1ca2f7bb0a668d26abd): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c1\/ac80b6d994f9c3547bdf07c7b8f383a5f62a34): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c2\/1388e09b5c992d0ccabb1e3014038a243e9804): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c2\/ad28bc10d57d4c595733ac19ab3e92efa76c22): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c2\/ea07ccad59d83f8901a04bb047ca897f1cbd4d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c3\/0af744fea6682e508591304c4766aa7a1c9b12): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c4\/d2f90d7858e1706eefc905b74b01f60e491455): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c5\/585188239657cbe027b3b1465a4823d5eacb6a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c5\/5b337304c244f147ef54fee368b896483dba73): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c5\/7fc338ee2618d084711662e8bcf5a841d3ba10): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c5\/e15a4f3928c02bdd8d74a86b8f0ff9314021b2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c7\/e55488dc2f3f5c2d61f4330ee7b1e6fe44c852): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c9\/2cce3be0a130f875a2e7fb66ac45d3465e092c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c9\/408fc0cd990480df119c2e20a730186d89c89c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c9\/95e2e7118d422c649fb421739f768b2159e984): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c9\/b37a8ad019a59e44494b3e5a1379283cd0052b): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c9\/b8d7a3360f2d5111c1e4eafad36d0386fabc8d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c9\/e4e2e228e694b93c89c4e40eac0a4da9c76c61): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/c9\/f150cbe05eebd0d5f66b19f0a060a4e1a7ef39): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ca\/7c7d763a1cf513fa55901c75407987cfed1500): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ca\/909ca773c098ab79237d72decc50d511d13789): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ca\/df6ec115be445fd180a5a87da793ac71ae22e6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/cd\/6c89b516e42c94c30414433de418c6b0661a00): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/cd\/eaab759c2cf0d9815de44d99cea7ab459779e8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ce\/87cafacfb48a15948c9d4e475a005ee9ef2896): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/cf\/c03db05dd47927b70d36e3f675ab06fac14757): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/cf\/cbf6dfc12603faa8e2ab80f3bc7e85dd57fa94): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d0\/0879adf7b7a468632fd5f1e939c9559c25b8e3): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d0\/33a13f44d1bf5b64fb3d4f1b82bcade592101e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d1\/edf014d54b5d7a7c23d56824f80123782608b7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d2\/24f4ff8db1c6d90fe66f4289d1e594cb83a4ff): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d3\/6340128bf2fd410bd42573b192100669dbf31c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d3\/86d23d0f411a6f99d6dead48942d2601db1949): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d3\/f7ae0586556223983cfc408572d738ff6a3ee3): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d4\/07de29fa1aebcfcf003f5c9ccb5a82654e70a3): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d4\/a7090ff4b94f9edde889c7d3941f1862aa20b9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d4\/d039e72ec780974434f487c2db993ec1e64380): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d6\/7367ca55d9ddbde22fe401923f394a5fb96bb2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d6\/a584f6f6c3bb61aa9bc754817a76929d380a5d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d7\/5c1d3e1b98631bc7af26ec796f635b0a8860fe): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d7\/a00dc7feabded7e38e4e958dddf65e58c7c90d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d7\/a446ddcf3adbacd4f3013d4b3d22275f18aa5e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d9\/0a49742b2609a87593673d45736cdfd1022f34): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/d9\/eb663e847b0730af6b071f31143cf5231a9567): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/da\/06424b36a0f52ef40a9a7cfa34bad5db614f35): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/dc\/06f303cac818797ce85a499fa02d5e190bd165): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/dc\/5a84a4e283c678135e5754af6fa7b5d5591cbb): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/dc\/9cc5d339ba27e65b197b30bdebf0f8996619c8): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/dd\/072f4472845982a4e386fcaeb94865a67edf2f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/dd\/3c2b20b033b35341e7ca18c787acbb085a89d2): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/dd\/fcab273df4d9dd81f796220f518cad7cf48633): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/de\/968bec4e9528a5e6e54fafcf8081045d7565be): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/de\/fbc0de8c8d0d7424ddb644c33ae977603db871): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/df\/42352bde625646e4577a493e79b984a87aaaa6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/df\/9341d0457fb1499f3513eddebc29f783cebcf4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e0\/de63b6f97eea44ae3be8e4a6aae333ad202a61): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e1\/02cc7324174853a66228d7c772ccc5d79f69d1): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e1\/1eda30ea2c16033e306c9797fa0b51ab168876): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e1\/6e676266970ebdd2750e60e2f53352b3871d23): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e1\/c8d7e3092d10f652fbcd8f4346cb396c319cc3): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e1\/e59caa662299d7b4725ef63b04d31f57352adf): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e2\/6337018fafb601b08267586d329fd24576fef6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e2\/98a544a324b549e424da0a1cb9727ce2e70654): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e3\/0d03ebc392e41c74b7ba97f7841ca43827c655): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e3\/2f0317c3a567bfa427d105bc235c8944920d2d): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e3\/827248be5a5b70af6698039014b3b6af17e859): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e3\/bb055d5af5ac0108fe66cdf2d489e937e88f4c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e3\/e26b3aa40dfcc8e09dcad0fd430292b0fe44ba): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e4\/150d74c249d98bcb249187002d33fadd1c345f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e4\/307229aecf1adfbdc862f1323c4f223dceee5a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e4\/aaa64ece7263bb02a057b62b21fa50df8ae895): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e4\/ff042bee6e9ed58dd6fbe685f49f2c2c88b965): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e8\/4a5aca903c04f6f3160106d19e4ec8c76f5cbb): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e9\/0e4805183d0a52f65a2d3c0ff4d6a9647ec2f4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e9\/4b2456423052a34dc82edb8b6336bc3b470cb5): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/e9\/4cf50e6ed02304b6870cd7cc4158856a396365): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ea\/70d00b730eaa83ac90e3a767733c686dc43c22): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ec\/3164efa8fe938310f74b6156d3ad33ccb2fef6): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ec\/9a29b8860c6479cec3a62b07cb69b46f76a089): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ec\/ed76d4f0a26b8a1a68b205de645b71fe5d3084): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ed\/707cdeb181c952ad85e15e1e5ad7ddff5c964f): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ee\/39df91eace75911f0289e6b570c47493252aae): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ee\/6732278e67622c48250d38d4d28a1f73503c5a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ee\/dcc3f66a8fbe5ecf66d07bf278787d69acf2d5): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ef\/0aad0fa48edef27b26c8ebc9e7656bb8f02f5e): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f0\/6429395a57fcc2d21b8229a1c1bcc0bcc94ffe): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f0\/762aaba5641b5afeabf4b5fce1708ab10429a5): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f2\/21eaf4fd17acf312d3c3e67c3f53c9a2d367af): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f2\/bbaa1efd3234edd6af2ba2ad199931d1599b87): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f3\/0065c8b6cf12d5a266a6e98786a74f70ba0bbd): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f4\/0961f04a272d1d06e21761e575fdd339f7bf69): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f4\/eabf2ea5740530f3f4350f877e1e5d884a7289): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f5\/5d2fca4cfdf25a91ec8886f6c7858620277160): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f5\/7b2ba2fab8c5b3883ca2f06b09cb2c7f53ebea): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f5\/ccb93d05a5ca13390f05d534c60536721580fe): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f5\/f286130236975ad0597851162017227b41bdc4): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f6\/e5e2463963b74e1ab6af3f9cddbb844acd94f7): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f7\/e8215e5a685d1ed0e77290337082e0e4e03d4c): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/f8\/6f871b0703bbd3387c9568dbb7fef2a6e0f204): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/fa\/5b100370c4d875d4d9ca102505e3fb45db5273): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/fc\/ebe9ce9d3d2e6202aacf0b2cda3e18db1d2855): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/fd\/8397bcbf48d7afbc17d71639283a42bcbdb25a): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/fe\/4b21a64979da7d690d517fa7f4a4d7158dfeba): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/fe\/92140544fb059fbf9cbc1704d0595bf536ec29): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ff\/66c8bd941cabb12745cc311128af91bb736870): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ff\/815c0b51f26ec0ecef4afc4374830dfb28b076): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ff\/8eaae68140626a7922ed15aabee61570056a44): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ff\/d8f99c17a536401f2dbe42f5191a9bf2f0e0d9): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":2,"Message":"fopen(\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/.git\/objects\/ff\/f6ff4827cccc8ac8d1197eb020b6f1e1eeab96): Failed to open stream: Permission denied","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":483}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
+Nov 07 2025 17:55:31
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/1Tera\/Local Sites\/recursos-ia-2\/app\/public\/wp-includes\/formatting.php","Line":2829}
+
