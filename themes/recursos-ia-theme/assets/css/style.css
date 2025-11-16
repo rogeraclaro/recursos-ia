@@ -643,6 +643,56 @@ body::after {
 }
 
 /* ==========================================================================
+   No Results Message
+   ========================================================================== */
+
+.no-results-message {
+    background: white;
+    padding: var(--space-xl);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-md);
+    margin-bottom: var(--space-lg);
+    text-align: center;
+}
+
+.no-results-content {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.no-results-content svg {
+    stroke: var(--color-slate);
+    opacity: 0.3;
+    margin-bottom: var(--space-md);
+    animation: fadeIn 0.5s ease-out;
+}
+
+.no-results-content h3 {
+    font-family: var(--font-display);
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--color-charcoal);
+    margin-bottom: var(--space-sm);
+}
+
+.no-results-content p {
+    color: var(--color-slate);
+    font-size: 1.05rem;
+    line-height: 1.6;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 0.3;
+        transform: scale(1);
+    }
+}
+
+/* ==========================================================================
    Utility Classes
    ========================================================================== */
 
