@@ -560,12 +560,42 @@ body::after {
     gap: var(--space-sm);
 }
 
+.link-favicon-wrapper {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .link-favicon {
     width: 24px;
     height: 24px;
     border-radius: var(--radius-sm);
-    flex-shrink: 0;
     box-shadow: var(--shadow-sm);
+    display: block;
+}
+
+.link-favicon-fallback {
+    width: 20px;
+    height: 20px;
+    stroke: var(--color-slate);
+    opacity: 0.35;
+    display: block;
+}
+
+/* When favicon loads successfully */
+.link-favicon-wrapper.favicon-loaded .link-favicon-fallback {
+    display: none;
+}
+
+/* When favicon fails to load, keep showing fallback */
+.link-favicon-wrapper.favicon-error .link-favicon-fallback {
+    display: block;
+    stroke: var(--color-olive);
+    opacity: 0.5;
 }
 
 .link-title {

@@ -1,4 +1,38 @@
 document.addEventListener('DOMContentLoaded', function() {
+    // Load favicons progressively with error handling
+    function loadFavicons() {
+        const wrappers = document.querySelectorAll('.link-favicon-wrapper[data-domain]');
+
+        wrappers.forEach((wrapper, index) => {
+            const domain = wrapper.dataset.domain;
+            if (!domain) return;
+
+            // Stagger loading to avoid overwhelming the server
+            setTimeout(() => {
+                const img = new Image();
+
+                // Silently handle errors - no console output
+                img.onerror = function() {
+                    wrapper.classList.add('favicon-error');
+                };
+
+                img.onload = function() {
+                    wrapper.classList.add('favicon-loaded');
+                    // Add the image to the DOM only if it loaded successfully
+                    img.className = 'link-favicon';
+                    img.alt = '';
+                    wrapper.insertBefore(img, wrapper.firstChild);
+                };
+
+                // Start loading
+                img.src = `https://www.google.com/s2/favicons?domain=${domain}&sz=32`;
+            }, index * 10); // Stagger by 10ms per favicon
+        });
+    }
+
+    // Load favicons after page loads
+    loadFavicons();
+
     // Search functionality
     const searchBox = document.getElementById('searchBox');
     const searchForm = document.getElementById('searchForm');

@@ -105,8 +105,12 @@
                     ?>
                     <div class="link-card">
                         <div class="link-header">
-                            <img src="https://www.google.com/s2/favicons?domain=<?php echo $domain; ?>&sz=32" 
-                                 alt="" class="link-favicon" onerror="this.style.display='none'">
+                            <div class="link-favicon-wrapper" data-domain="<?php echo esc_attr($domain); ?>">
+                                <svg class="link-favicon-fallback" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"></circle>
+                                    <path d="M12 16v-4M12 8h.01"></path>
+                                </svg>
+                            </div>
                             <a href="<?php echo esc_url($url); ?>" target="_blank" rel="noopener noreferrer" class="link-title">
                                 <?php the_title(); ?>
                             </a>
